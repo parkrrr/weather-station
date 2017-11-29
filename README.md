@@ -16,3 +16,5 @@ Additionally, the solar tracking worked on paper but the sensors were much too c
 
 ### The Ugly
 I had high hopes of getting this into an enclosure but wound up not doing it mainly out of time constraints coupled with some downtime when I had surgery for my [Ménière's disease](https://en.wikipedia.org/wiki/M%C3%A9ni%C3%A8re%27s_disease) and the realiziation that the solar charging wasn't going to work out. I wound up mounting it on some wood my wonderful landlord helped me cut.
+
+![Weather station mounted on a board](https://github.com/parkrrr/weather-station/blob/master/img/1347517125693.jpg?raw=true)
